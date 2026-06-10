@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" alt="cute wiki-tan" src="https://github.com/user-attachments/assets/ade18816-2796-45ff-b85e-ecf763f12b1f" />
+  <h1>wiki</h1>
+</div>
+
 # Wiki
 
 A fast Rust-based command-line tool for searching and retrieving Wikipedia summaries (English and Italian). It selects the best match using fuzzy ranking and prints a cleaned version of the article in the terminal.
@@ -63,6 +68,7 @@ wiki artificial intelligence
 ---
 
 ## Dependencies
+<img align="right" height="250" alt="wiki-tan check's the dependencies=" src="https://github.com/user-attachments/assets/2ebe42ed-bd9f-4ab1-8741-2c23c1711d66" />
 
 - tokio
 - reqwest
@@ -74,12 +80,15 @@ wiki artificial intelligence
 
 ---
 
-## License
+## Additional Stuff
+<img align="left" height="200" alt="wiki-tan reading the Unlicense" src="https://github.com/user-attachments/assets/df13f53b-ac77-43b9-b822-2637ef1c4e7b" />
 
-This project is licensed under the Unlicense: https://unlicense.org/
+### License
 
----
+This project is licensed under the Unlicense: https://unlicense.org/ 
 
-## Note
+### Note
 
 This README was generated with AI assistance.
+
+<!--- EXCEPT THE WIKITANS POSITIONING UWU --->
